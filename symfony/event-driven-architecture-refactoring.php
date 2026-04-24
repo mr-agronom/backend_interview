@@ -15,7 +15,7 @@ class OrderCreateService
     {
         /**
          * ......
-         * some processes for creating an $order
+         * some processes for creating an Order
          * .....
          */
 
